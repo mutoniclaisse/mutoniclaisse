@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mutoniclaisse
+- 👋 Hi, I’m @mutoniclarisse
 - 👀 I’m interested in discussing courses
 - 🌱 I’m currently learning CS50X
 - 💞️ I’m looking to collaborate on Group discussions.
