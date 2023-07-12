@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutoniclarisse
 - 👀 I’m interested in discussing courses
-- 🌱 I’m currently learning CS50X
+- 🌱 I’m currently learning CS50P
 - 💞️ I’m looking to collaborate on Group discussions.
 - 📫 How to reach me +250786655239 on whatsapp or on gitguh mutoniclarisse
 
